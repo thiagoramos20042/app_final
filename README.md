@@ -2,9 +2,9 @@
 
 Questionário de estatística com identificação do participante, correção das respostas e persistência em SQLite.
 
-**Aplicações Python** · Aplicação Streamlit
+**Formação e fundamentos** · Aplicação Streamlit
 
-[← Portfólio de Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
+[← Data Science, IA e Automações · Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
 
 ## Objetivo
 
